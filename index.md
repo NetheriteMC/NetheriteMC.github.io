@@ -37,5 +37,5 @@ Run `build/server-phar.php` using your preferred PHP binary. It'll drop a `Nethe
 
 You can also use the `--out` option to change the output filename.
 
-## Running Netherite from source code
+### Running Netherite from source code
 Run `src/pocketmine/PocketMine.php` using your preferred PHP binary.
