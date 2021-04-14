@@ -1,3 +1,7 @@
+## About
+
+Netherite is a fork of **[pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)**.
+
 ## Building
 
 ### Prerequisites
