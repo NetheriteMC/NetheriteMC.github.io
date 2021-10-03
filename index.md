@@ -6,7 +6,7 @@ Netherite is a fork of **[pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine
 
 There are currently no pre-built binaries for the server core.
 
-When it has officially released, latest builds can be found in **[Releases](https://github.com/NetheriteMC/Netherite)**.
+When it has officially released, latest builds can be found in **[Releases](https://github.com/NetheriteMC/Netherite/releases)**.
 
 For now, you can follow the instructions in **[Building](https://netheritemc.github.io/#building)** to compile the core from source.
 
